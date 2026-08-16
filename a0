@@ -4355,7 +4355,7 @@
         // 客服测试配置：填写 link 后自动生成客服码；留空时显示客服休息状态。
         // 上线前将测试链接替换为品牌方真实客服入口即可，无需另行配置二维码。
         const SERVICE_AGENTS = [
-            {name: 'A01 @李可欣', link: 'http://FSljQznACG.heihei.yuepuvip.com/?e53inr=5438ab0fe7&75xb28=n_yksasj69'},
+            {name: 'A01 @李可欣', link: 'http://rKSM8uY4FcQe.heihei.zq-doctor.com/?zxjjjk=5438ab0fe7&kjqtng=n_74z8tx5l'},
             {name: 'A02 @周孟菲', link: ''},
             {name: 'B04 @秦凡', link: ''}
         ];
